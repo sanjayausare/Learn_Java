@@ -1,4 +1,4 @@
-public class NinetyNineBottlesOfBeer {
+class NinetyNineBottlesOfBeer {
 
     public static void main(String[] args)
     {
@@ -22,9 +22,5 @@ public class NinetyNineBottlesOfBeer {
                 System.out.println("Take one down and pass it around, " + --n +  " bottles of beer.");
             }
         }
-
-
-    }
-
-    
+    }  
 }
